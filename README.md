@@ -11,9 +11,7 @@ The dashboard is divided into two main planes:
 ### Key Features:
 - **Dynamic Visualizations**: Visualizations adjust based on selected metrics such as sales, profit, and number of orders.
 - **Interactive Filters**: Filters for year and region allow users to refine their analysis.
-- **KPI Cards**: Displays key performance indicators, including:
-  - **Profit Margin**: \( \text{Profit Margin} = \frac{\text{Total Profit}}{\text{Total Sales}} \)
-  - **Return Rate**: \( \text{Return Rate} = \frac{\text{Quantity Returned}}{\text{Quantity Ordered}} \)
+- **KPI Cards**: Displays key performance indicators.
 - **Top 5 Products**: Always displays the top 5 products based on the selected metric.
 - **Category Chart Filtering**: Filter action implemented on the category chart to dynamically update other visualizations and KPI cards.
 - **Logo Interaction**: Clicking on the logo redirects users to the dashboard published on Tableau Public.
@@ -40,12 +38,10 @@ The dashboard effectively showcases the following KPIs:
 ## Dataset
 The dashboard utilizes the Sample Superstore dataset for analysis. You can access the dataset [here](https://github.com/Samikhya-Sahoo/Tableau-Dashboard---Sample-Superstore-Sales-Analysis/blob/main/sample_-_superstore.xls).
 
-## Tableau Dashboard
-You can view the Tableau dashboard [here](https://github.com/Samikhya-Sahoo/Tableau-Dashboard---Sample-Superstore-Sales-Analysis/blob/main/TABLEAU%20SUPERSTORE%20DASHBOARD.png).
+## Tableau Dashboard Screenshot
+![Tableau Dashboard](https://github.com/Samikhya-Sahoo/Tableau-Dashboard---Sample-Superstore-Sales-Analysis/blob/main/TABLEAU%20SUPERSTORE%20DASHBOARD.png)
 
 ## Conclusion
 This Tableau dashboard offers a comprehensive view of sales performance, leveraging interactive features and dynamic visualizations to support data-driven decision-making. The KPIs included provide valuable insights into the business's financial health and operational efficiency.
 
-## Getting Started
-To view the dashboard, please visit the Tableau Public link (add your link here).
 
